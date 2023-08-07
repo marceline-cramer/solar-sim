@@ -1,0 +1,19 @@
+[ember]
+id = "solar_sim"
+name = "solar-sim"
+version = "0.0.1"
+
+[components.planet]
+type = "Empty"
+
+[components.orbit_radius]
+type = "F32"
+
+[components.orbit_speed]
+type = "F32"
+
+[components.orbit_progress]
+type = "F32"
+
+[components.lifespan]
+type = "F32"
